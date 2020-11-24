@@ -1,6 +1,9 @@
 ## Changelog
 
 ### 1.10.5
+
+
+### 1.10.5
 * Added LargeStackSizeItemStackHandler to API (#1284) - LAGIdiot
 * Added a JEI Info Tab for the Fluid Canner Machines for Buckets and Fluid Cells (#1288) - Frederic Marceau
 * Added recipe for turning Block of Quartz (Vanilla MC) to 4 Nether Quartz (Vanilla MC) (#1293) - LAGIdiot
